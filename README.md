@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="[https://envs.sh/OAG.jpg](https://envs.sh/OAG.jpg)" alt="Blank Bot Logo">
+  <img src="https://envs.sh/OAG.jpg" alt="AK-BOT Logo">
 </p>
 <h1 align="center">
   <b>Blank Bot</b>
